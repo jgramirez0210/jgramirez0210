@@ -11,7 +11,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **Culinary Explorer**
+- 🔭 I’m currently working on **My Backend Capstone**
 
 - 🌱 I’m currently learning **python, django**
 
