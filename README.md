@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=jgramirez0210&label=Profile%20views&color=0e75b6&style=flat)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15-ma&margin-h=15-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on **My Backend Capstone**
 - 🌱 I’m currently learning **Python, Django**
