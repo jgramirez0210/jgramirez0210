@@ -33,11 +33,9 @@
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <div>CSS3</div>
-  </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
     <div>Django</div>
-  </div>
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
     <div>Figma</div>
