@@ -24,49 +24,111 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Programming Languages:</h3>
 <p align="left">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <div>Bootstrap</div>
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+      <div>JavaScript</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+      <div>TypeScript</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <div>Python</div>
+    </div>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <div>CSS3</div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    <div>Django</div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-    <div>Figma</div>
+</p>
+
+<h3 align="left">Frontend Development:</h3>
+<p align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+      <div>React</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+      <div>HTML5</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+      <div>CSS3</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+      <div>Bootstrap</div>
+    </div>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-    <div>Firebase</div>
+</p>
+
+<h3 align="left">Backend Development:</h3>
+<p align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+      <div>Node.js</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+      <div>Django</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <div>MySQL</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+      <div>Next.js</div>
+    </div>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    <div>HTML5</div>
+</p>
+
+<h3 align="left">Tools:</h3>
+<p align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+      <div>Postman</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      <div>Firebase</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+      <div>Figma</div>
+    </div>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-    <div>Illustrator</div>
+</p>
+
+<h3 align="left">OS & IDE:</h3>
+<p align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+      <div>Linux</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+      <div>VS Code</div>
+    </div>
   </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <div>MySQL</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-    <div>Next.js</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    <div>Node.js</div>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-    <div>Postman</div>
+</p>
+
+<h3 align="left">Communications:</h3>
+<p align="left">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" width="40" height="40"/>
+      <div>Slack</div>
+    </div>
+    <div style="display: inline-block; text-align: center;">
+      <img src="https://www.vectorlogo.zone/logos/zoom/zoom-icon.svg" alt="zoom" width="40" height="40"/>
+      <div>Zoom</div>
+    </div>
   </div>
 </p>
 
