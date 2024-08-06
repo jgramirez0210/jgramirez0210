@@ -5,11 +5,19 @@
   <img src="https://komarev.com/ghpvc/?username=jgramirez0210&label=Profile%20views&color=0e75b6&style=flat" alt="jgramirez0210" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 50px;">
+<style>
+  .trophy {
+    margin-right: 20px; /* Adjust the margin as needed */
+  }
+</style>
+
+<div align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" class="trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jgramirez0210" alt="GitHub Profile Trophy" />
   </a>
-</p>
+  <!-- Repeat the above <a> tag for each trophy, all with class="trophy" -->
+</div>
+
 
 
 
