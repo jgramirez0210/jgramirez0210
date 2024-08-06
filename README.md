@@ -5,15 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=jgramirez0210&label=Profile%20views&color=0e75b6&style=flat" alt="jgramirez0210" />
 </p>
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jesseramirez354/" target="_blank" style="margin-right: 10px;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" style="margin-right: 10px;">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jgramirez0210" alt="jgramirez0210" />
   </a>
-  <!-- Add more badges as needed with similar style attributes -->
 </p>
 
 
