@@ -28,6 +28,7 @@
 <h3 align="left">Programming Language:</h3>
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <p> python </p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
