@@ -26,9 +26,9 @@
 
 [![Frontend:](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
 
-[![Backend:](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Backend:](https://skillicons.dev/icons?i=py,django,sqlite)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=postman,github)](https://skillicons.dev)
 
 [![POS & IDE:](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
