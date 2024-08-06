@@ -24,11 +24,19 @@
 
 [![Programming Languages:](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
 
+<h3 align="left">Frontend:</h3>
+
 [![Frontend:](https://skillicons.dev/icons?i=js,html,css,react)](https://skillicons.dev)
+
+<h3 align="left">Backend:</h3>
 
 [![Backend:](https://skillicons.dev/icons?i=py,django,sqlite)](https://skillicons.dev)
 
+<h3 align="left">Tools:</h3>
+
 [![Tools](https://skillicons.dev/icons?i=postman,github)](https://skillicons.dev)
+
+<h3 align="left">POS & IDE:</h3>
 
 [![POS & IDE:](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
