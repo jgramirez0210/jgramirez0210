@@ -23,4 +23,6 @@
 ![OS & IDE:](https://skillicons.dev/icons?i=windows,vscode)
 
 ### Connect with me:
-[![LinkedIn Profile](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/jesseramirez354/)
+<a href="https://www.linkedin.com/in/jesseramirez354/" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" width="40" height="40" />
+</a>
