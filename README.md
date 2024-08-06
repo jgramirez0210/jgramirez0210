@@ -36,9 +36,9 @@
 
 [![Tools](https://skillicons.dev/icons?i=postman,github)](https://skillicons.dev)
 
-<h3 align="left">POS & IDE:</h3>
+<h3 align="left">OS & IDE:</h3>
 
-[![POS & IDE:](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![OS & IDE:](https://skillicons.dev/icons?i=windows,html,css)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
