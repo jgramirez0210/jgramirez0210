@@ -35,7 +35,7 @@
 
 <h3 align="left">OS & IDE:</h3>
 
-[![OS & IDE:](https://skillicons.dev/icons?i=windows,html,css)](https://skillicons.dev)
+[![OS & IDE:](https://skillicons.dev/icons?i=windows,vscode)](https://skillicons.dev)
 
 
 <h3 align="left">Connect with me:</h3>
