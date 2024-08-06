@@ -1,5 +1,5 @@
 # Hi 👋, I'm Jesse Ramirez
-### A passionate frontend developer from Houston, TX
+### A passionate full stack developer from Houston, TX
 
 ![](https://komarev.com/ghpvc/?username=jgramirez0210&label=Profile%20views&color=0e75b6&style=flat)
 
