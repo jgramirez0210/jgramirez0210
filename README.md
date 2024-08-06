@@ -5,12 +5,12 @@
   <img src="https://komarev.com/ghpvc/?username=jgramirez0210&label=Profile%20views&color=0e75b6&style=flat" alt="jgramirez0210" />
 </p>
 
-<p align="left" margin-right:10px>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jgramirez0210" alt="jgramirez0210" />
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" style="margin-right: 10px;">
+    <img src="https://github-profile-trophy.vercel.app/?username=jgramirez0210" alt="GitHub Profile Trophy" />
   </a>
 </p>
+
 
 
 - 🔭 I’m currently working on **My Backend Capstone**
