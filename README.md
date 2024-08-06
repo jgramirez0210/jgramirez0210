@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Jesse Ramirez</h1>
 <h3 align="center">A passionate frontend developer from Houston, TX</h3>
 
@@ -15,8 +13,7 @@
 
 - 🔭 I’m currently working on **Culinary Explorer**
 
-- 🌱 I’m currently learning **about testing**
-
+- 🌱 I’m currently learning **python, django**
 
 
 <h2 align="left">🛠 Tools I Use</h2>
