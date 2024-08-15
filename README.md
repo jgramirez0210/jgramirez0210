@@ -12,27 +12,28 @@
 ## 🛠 Tools I Use
 
 ### Frontend:
-[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
-[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
+[![CSS](https://skillicons.dev/icons?i=css "CSS")](https://www.w3.org/Style/CSS/)
+[![HTML](https://skillicons.dev/icons?i=html "HTML")](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://skillicons.dev/icons?i=js "JavaScript")](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react "React")](https://reactjs.org/)
 
 ### Backend:
-[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
-[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
+[![Python](https://skillicons.dev/icons?i=python "Python")](https://www.python.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs "Next.js")](https://nextjs.org/)
+[![Django](https://skillicons.dev/icons?i=django "Django")](https://www.djangoproject.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite "SQLite")](https://www.sqlite.org/)
 
 ### Tools:
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
-[![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
+[![Postman](https://skillicons.dev/icons?i=postman "Postman")](https://www.postman.com/)
+[![GitHub](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/)
+[![Git](https://skillicons.dev/icons?i=git "Git")](https://git-scm.com/)
+[![Heroku](https://skillicons.dev/icons?i=heroku "Heroku")](https://www.heroku.com/)
+[![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://www.netlify.com/)
 
 ### OS & IDE:
-[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
-[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Windows](https://skillicons.dev/icons?i=windows "Windows")](https://www.microsoft.com/windows)
+[![Apple](https://skillicons.dev/icons?i=apple "Apple")](https://www.microsoft.com/windows)
+[![VS Code](https://skillicons.dev/icons?i=vscode "VS Code")](https://code.visualstudio.com/)
 
 
 
