@@ -17,7 +17,11 @@
 ![Frontend:](https://skillicons.dev/icons?i=js,html,css,react)
 
 ### Backend:
-![Backend:](https://skillicons.dev/icons?i=py,django,sqlite)
+
+[![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
+[![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=postman,github)
