@@ -10,24 +10,31 @@
 - 🌱 I’m currently learning **Python, Django**
 
 ## 🛠 Tools I Use
-### Programming Language:
-![Programming Languages:](https://skillicons.dev/icons?i=js,py)
 
 ### Frontend:
-![Frontend:](https://skillicons.dev/icons?i=js,html,css,react)
+[![CSS](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org/)
 
 ### Backend:
-
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![Django](https://skillicons.dev/icons?i=django)](https://www.djangoproject.com/)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
 
 ### Tools:
-![Tools](https://skillicons.dev/icons?i=postman,github)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![Heroku](https://skillicons.dev/icons?i=heroku)](https://www.heroku.com/)
+[![Netlify](https://skillicons.dev/icons?i=netlify)](https://www.netlify.com/)
 
 ### OS & IDE:
-![OS & IDE:](https://skillicons.dev/icons?i=windows,vscode)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
+[![VS Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+
+
 
 ### Connect with me:
 <a href="https://www.linkedin.com/in/jesseramirez354/" target="_blank">
