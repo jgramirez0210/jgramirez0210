@@ -32,7 +32,7 @@
 
 ### OS & IDE:
 [![Windows](https://skillicons.dev/icons?i=windows "Windows")](https://www.microsoft.com/windows)
-[![Apple](https://skillicons.dev/icons?i=apple "Apple")](https://www.microsoft.com/windows)
+[![Apple](https://skillicons.dev/icons?i=apple "Apple")](https://www.apple.com/macos/sonoma/)
 [![VS Code](https://skillicons.dev/icons?i=vscode "VS Code")](https://code.visualstudio.com/)
 
 
