@@ -31,5 +31,5 @@
 </a>
 
 
+[![Next.Js](http://res.cloudinary.com/nashvillesoftwareschool/image/upload/ar_1:1,c_fill,w_100/v1/techs/png-transparent-next-js-hd-logo_khfi34)](https://nextjs.org/)
 
-I **love** using [Next.js](https://nextjs.org/)
